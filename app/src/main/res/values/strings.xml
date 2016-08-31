@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">S6A3TextColorChanger</string>
+
+    <string name="body_text">To change this text color:\nTap on \"TEXT COLOR\" at top right.\nAnd Select color.</string>
+
+    <string name="menu_header_name">TEXT COLOR</string>
+    <string name="text_color_default">DEFAULT</string>
+    <string name="text_color_1">RED</string>
+    <string name="text_color_2">BLUE</string>
+    <string name="text_color_3">GREEN</string>
+</resources>
